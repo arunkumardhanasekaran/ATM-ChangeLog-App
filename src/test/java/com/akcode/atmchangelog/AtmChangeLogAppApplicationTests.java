@@ -1,4 +1,4 @@
-package com.example.atmchangelog;
+package com.akcode.atmchangelog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

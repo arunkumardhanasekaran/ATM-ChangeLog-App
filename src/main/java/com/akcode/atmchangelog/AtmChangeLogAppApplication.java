@@ -1,4 +1,4 @@
-package com.example.atmchangelog;
+package com.akcode.atmchangelog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
